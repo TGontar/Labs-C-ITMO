@@ -1,0 +1,3 @@
+C:/First/LabMusic/cmake-build-debug/CMakeFiles/LabMusic.dir
+C:/First/LabMusic/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/First/LabMusic/cmake-build-debug/CMakeFiles/rebuild_cache.dir

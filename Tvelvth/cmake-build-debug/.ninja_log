@@ -1,0 +1,11 @@
+# ninja log v5
+1	111	6902084018627855	CMakeFiles/Tvelvth.dir/main.c.obj	9c5cc0f48db5fd1f
+113	348	6902084020971556	Tvelvth.exe	53793b8e147d1e1e
+3	110	6902084353945762	CMakeFiles/Tvelvth.dir/main.c.obj	9c5cc0f48db5fd1f
+110	275	6902084355504674	Tvelvth.exe	53793b8e147d1e1e
+4	122	6902084517620305	CMakeFiles/Tvelvth.dir/main.c.obj	9c5cc0f48db5fd1f
+122	289	6902084519235790	Tvelvth.exe	53793b8e147d1e1e
+4	131	6902086081189390	CMakeFiles/Tvelvth.dir/main.c.obj	9c5cc0f48db5fd1f
+132	299	6902086082795436	Tvelvth.exe	53793b8e147d1e1e
+4	411	6914154689221255	CMakeFiles/Tvelvth.dir/main.c.obj	9c5cc0f48db5fd1f
+412	739	6914154692440674	Tvelvth.exe	53793b8e147d1e1e

@@ -1,0 +1,3 @@
+C:/First/Tvelvth/cmake-build-debug/CMakeFiles/Tvelvth.dir
+C:/First/Tvelvth/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/First/Tvelvth/cmake-build-debug/CMakeFiles/rebuild_cache.dir

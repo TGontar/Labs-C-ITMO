@@ -1,0 +1,3 @@
+C:/First/LabBMP/cmake-build-debug/CMakeFiles/LabBMP.dir
+C:/First/LabBMP/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/First/LabBMP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
